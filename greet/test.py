@@ -1,4 +1,4 @@
-from app import app
+from greet.app import app
 import unittest
 
 class TestSimpleRoutes(unittest.TestCase):
